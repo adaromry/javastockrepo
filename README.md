@@ -1,6 +1,6 @@
 # Java Stock Repo
 
-A Java web application for a Java course, built as a Google App Engine project.
+A Java web application for a Java course, built as a Google App Engine project.bchgxhg
 
 ## What it does
 
